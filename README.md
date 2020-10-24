@@ -21,6 +21,7 @@ Os dados originais foram extraídos do Observatório Brasileiro do Cinema e do A
 https://oca.ancine.gov.br/cinema
 
 
+Repositórios do Projeto:
 Kaggle:
 https://www.kaggle.com/pedrothiago/anlise-dos-filmes-exibidos-2009-a-2019
 
