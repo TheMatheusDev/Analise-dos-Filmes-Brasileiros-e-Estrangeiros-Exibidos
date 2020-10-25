@@ -1,7 +1,7 @@
-# Python-ANCINE
+# Análise dos Filmes Brasileiros e Estrangeiros Exibidos 2009 a 2019
 ## Contexto
-Esse é o dataset final do projeto **Python ANCINE**.
-O projeto Python ANCINE é um dos projetos de conclusão do mini curso **Python para Visualização e Análise de Dados** do professor Carlos Artur Guimarães para o módulo integrador do curso técnico de TI do Instituto Metrópole Digital.
+Esse é o dataset final do projeto **Análise dos Filmes Brasileiros e Estrangeiros Exibidos 2009 a 2019**.
+Esse é um dos projetos de conclusão do mini curso **Python para Visualização e Análise de Dados** do professor Carlos Artur Guimarães para o módulo integrador do curso técnico de TI do Instituto Metrópole Digital.
 
 Os autores do projeto são Pedro Thiago (@manabank) e Matheus Araújo (@TheusKhan).
 
